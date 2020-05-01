@@ -1,4 +1,6 @@
-export default {
+const Colors = {
     primary: '#f7287b',
-    accent: '#c717fc',
+    accent: '#de0da6',
 };
+
+export default Colors;
